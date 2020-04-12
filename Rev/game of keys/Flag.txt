@@ -1,0 +1,7 @@
+Flag: TG20{this flag should be on teh moon}
+
+Decompile the binary and get the python code.
+
+adding single single letter to the key is easier rather than using the wordlist.
+We know the starting of the flag TG20{}
+so the format that works best gives the flag.

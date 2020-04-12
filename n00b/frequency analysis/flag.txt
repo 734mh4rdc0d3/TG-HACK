@@ -1,0 +1,29 @@
+shift cipher problem
+
+find all candidates from the text that can be the flag.
+Gn20{urpvaqvaz_ufqz_rp}
+ND20{emyq_fuyq}
+MO20{kag_uf_omz}
+FM20{bqqcfcv_bxst_tcs}
+FS20{nqsuzzuzs_yuppxq_qzp}
+MZ20{zpfarqqqpwffqfm_evdw_hff}
+WL20{afdfp_jfafib_bka} 
+YQ20{moffuaz_iuftagf_efadk?}
+FG20{iffebjeff_iedzla_yu}
+Ftdagsta{gf----fuyq-U-vgef}
+
+Apply rot ciphers for key 14.
+
+Ub20{ifdjoejon_iten_fd}
+BR20{same_time}
+AC20{you_it_can}
+TA20{peeqtqj_plgh_hqg}
+TG20{beginning_middle_end}
+AN20{ndtofeeedktteta_sjrk_vtt}
+KZ20{otrtd_xtotwp_pyo} 
+ME20{acttion_without_story?}
+TU20{wttspxstt_wsrnzo_mi}
+Througho{ut----time-I-just}
+
+flag:
+TG20{beginning_middle_end}

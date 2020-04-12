@@ -1,0 +1,10 @@
+Vignere cipgher decoding
+
+https://www.guballa.de/vigenere-solver
+MT20{havg_fhgm_fhtl_vbqrxa}
+classical vignere
+english
+key length given is 3
+
+flag:
+TG20{this_must_stay_hidden}
